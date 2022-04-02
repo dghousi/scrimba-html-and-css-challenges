@@ -2,3 +2,4 @@
 
 1. Start of with a blank file and its solution.
 2. Add lists to a page with its solution.
+3. Fix the image issue and its solution.
