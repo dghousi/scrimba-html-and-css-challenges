@@ -5,3 +5,4 @@
 3. Fix the image issue and its solution.
 4. Add some style to our page with its solution.
 5. Styling the title of our page with its solution.
+6. Styling the subheadings with solution.
