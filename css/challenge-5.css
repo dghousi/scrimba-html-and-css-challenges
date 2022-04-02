@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+/* Solution with h1 */
+/* h1 {
+  background-color: #281b2d;
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  margin-top: 0;
+} */
+
+header {
+  background-color: #281b2d;
+  color: #fff;
+  text-align: center;
+}
+
+.title {
+  margin-top: 0px;
+  padding: 25px 0;
+  font-size: 72px;
+}
