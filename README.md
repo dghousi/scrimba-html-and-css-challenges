@@ -8,3 +8,4 @@
 6. Challenge 6: Styling the subheadings with solution.
 7. Challenge 7: Some extra style with solution.
 8. Challenge 8: Containing the layouts, solution.
+9. Challenge 9: Creating columns, solution.
