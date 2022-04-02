@@ -6,3 +6,4 @@
 4. Add some style to our page with its solution.
 5. Styling the title of our page with its solution.
 6. Styling the subheadings with solution.
+7. Some extra style with solution.
