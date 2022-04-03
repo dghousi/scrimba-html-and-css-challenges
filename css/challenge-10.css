@@ -13,6 +13,14 @@ h1 {
   padding: 25px 0;
 }
 
+a {
+  color: #281b2d;
+}
+
+a:hover {
+  color: #fff;
+}
+
 /* solution with header styled */
 
 /* header {
@@ -33,6 +41,7 @@ h1 {
   font-size: 48px;
   padding: 20px;
   border-bottom: 5px solid #00c54c;
+  margin-top: 0;
 }
 
 .white-text {
@@ -56,33 +65,20 @@ h1 {
 
 .sidebar {
   width: 30%;
-  background-color: #9ae84f;
+  background: #9ae84f;
+  padding: 15px;
+}
+
+.source {
+  font-size: 12px;
 }
 
 .col-right {
   margin-left: 25px;
 }
 
-.subhead-sidebar {
-  margin: 15px;
-  padding: 5px;
-}
-
-a:hover {
-  color: #9138b7;
-}
-
 img {
   width: 20rem;
   padding: 5px;
   margin: 10px;
-}
-
-.margin-left-25 {
-  margin-left: 25px;
-  justify-content: safe;
-}
-
-.m-t-0 {
-  margin-top: 0px;
 }
